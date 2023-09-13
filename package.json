@@ -1,0 +1,21 @@
+{
+  "name": "sandipa_hcl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "node-pandoc": "^0.3.0",
+    "pandoc": "^0.2.0",
+    "pandoc-ts": "^1.0.5",
+    "pdf-lib": "^1.17.1"
+  },
+  "description": ""
+}
